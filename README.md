@@ -1,4 +1,4 @@
-<img src="https://gist.githubusercontent.com/0x1DEA/d5b8f077310386a57f809c42a3c299df/raw/16bc3c3d759e84db2f3d247f1043f26e167eb5c0/pickle.gif"/>
+<!--<img style="" src="https://gist.githubusercontent.com/0x1DEA/d5b8f077310386a57f809c42a3c299df/raw/16bc3c3d759e84db2f3d247f1043f26e167eb5c0/pickle.gif"/>-->
 
 ## Current Projects
 - [GD Forums (Laravel & Vue)](https://gdforums.com)
