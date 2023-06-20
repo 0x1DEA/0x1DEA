@@ -6,6 +6,3 @@
 - [Soundodger Community (sysadmin)](https://soundodger-community.com)
 - [SpinShare (sysadmin)](https://spinsha.re)
 - [Montaime Records LLC (Web Dev)](https://montai.me)
-
-## Currently Learning
-- Trying and failing to hook CEF with OpenGL like Steam & Discord
