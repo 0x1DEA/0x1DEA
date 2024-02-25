@@ -1,8 +1,24 @@
-<!--<img style="" src="https://gist.githubusercontent.com/0x1DEA/d5b8f077310386a57f809c42a3c299df/raw/16bc3c3d759e84db2f3d247f1043f26e167eb5c0/pickle.gif"/>-->
+Hi. Web developer. Pro grammer. Trans gender.
 
-## Current Projects
-- [GD Forums (Laravel & Vue)](https://gdforums.com)
-- [UserLevels.com (Laravel & Vue)](https://userlevels.com)
-- [Soundodger Community (sysadmin)](https://soundodger-community.com)
-- [SpinShare (sysadmin)](https://spinsha.re)
-- [Montaime Records LLC (Web Dev)](https://montai.me)
+- [Hyperbolus](https://hyperbolus.net) (best thing i've made) - Sole Creator and Developer
+  - GD Profiles - Image card service (ex. https://i.profile.gd/RobTop.png)
+- [@Montaime](https://github.com/Montaime) - Web Developer for Montaime Records LLC
+- [rook.fm (Montaime)](https://rook.fm) - Main Developer
+- [SpinShare (sysadmin)](https://spinsha.re) -  CI/CD System Administrator
+- [UserLevels.com (Laravel & Vue)](https://userlevels.com) Sole Creator and Developer
+- [Soundodger Community](https://soundodger-community.com) - System Administrator and Maintainer
+- [funnyfish.net](funnyfish.net) - funnyfish.net
+
+## Technologies
+- Vue
+- Laravel
+- Tailwind
+- Sass
+
+## Languages
+- PHP
+- Javascript
+- Typescript
+- C(99)/C++
+- Rust
+- Python
