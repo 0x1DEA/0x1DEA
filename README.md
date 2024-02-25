@@ -7,7 +7,7 @@ Hi. Web developer. Pro grammer. Trans gender.
 - [SpinShare (sysadmin)](https://spinsha.re) -  CI/CD System Administrator
 - [UserLevels.com (Laravel & Vue)](https://userlevels.com) Sole Creator and Developer
 - [Soundodger Community](https://soundodger-community.com) - System Administrator and Maintainer
-- [funnyfish.net](funnyfish.net) - funnyfish.net
+- [funnyfish.net](https://funnyfish.net) - funnyfish.net
 
 ## Technologies
 - Vue
